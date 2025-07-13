@@ -18,7 +18,7 @@ The dataset used for this dashboard was collected from Kaggle.
 
 ## 🖼️ Dashboard Preview
 
-![text_image](caoture.JPG)
+![Capture](https://github.com/user-attachments/assets/0db68732-8346-4512-b4c5-45dbce65a10b)
 
 ---
 
