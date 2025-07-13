@@ -22,6 +22,16 @@ The dataset used for this dashboard was collected from Kaggle.
 
 ---
 
+## 📌 Key Metrics / KPIs
+
+- 🔸 Average salary by gender and job title
+- 🔸 Bonus distribution by gender and role
+- 🔸 Employee count by gender and age group
+- 🔸 Gender representation per department
+- 🔸 Pay gap percentage by job role
+
+---
+
 ## 📌 Key Insights
 
 - **Female managers** and **female warehouse associates** are earning more than their male counterparts. Their representation in these roles is also higher.
